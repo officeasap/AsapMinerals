@@ -19,10 +19,10 @@ const GlobalLayout = ({ children }: GlobalLayoutProps) => {
         <div className="max-w-6xl mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-text-secondary text-sm mb-2 md:mb-0">
-              East Africa Leading Mineral Trading Since 2013
+              East Africa Leading Mineral Trading Since 2022
             </p>
             <div className="text-text-muted text-sm">
-              © 2013 Adonnow Trading Limited — All rights reserved
+              © 2013 Asap Trading Minerals — All rights reserved
             </div>
           </div>
         </div>
