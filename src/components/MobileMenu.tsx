@@ -137,7 +137,7 @@ const MobileMenu = () => {
                     {/* Title below logo */}
                     <div className="text-center space-y-2">
                       <h3 className="text-[#dfd4a2] font-heading text-xl tracking-wide">
-                        Adonnow Trading Limited
+                        Asap Trading Minerals
                       </h3>
                       <p className="text-[rgba(249,249,245,0.6)] text-sm mt-2">
                         East African Mineral Exports
@@ -182,14 +182,14 @@ const MobileMenu = () => {
                       Trading Desk
                     </p>
                     <a 
-                      href="tel:+254707513272" 
+                      href="tel:+6281315679012" 
                       className="text-[#dfd4a2] text-lg font-medium block mb-2 hover:opacity-90 transition-opacity"
                       style={{ textShadow: 'none' }}
                     >
-                      +254 707 513 272
+                      +62 813 1567 9012
                     </a>
                     <p className="text-[rgba(249,249,245,0.6)] text-sm">
-                      Karen, Nairobi • KENYA 
+                      Kiambu Road, Kiambu • KENYA 
                     </p>
                   </div>
                 </div>
