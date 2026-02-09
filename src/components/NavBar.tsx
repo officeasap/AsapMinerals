@@ -163,7 +163,7 @@ const NavBar = () => {
                   </div>
                   <div className="absolute -inset-1 bg-gradient-to-r from-[#7877c6] to-transparent opacity-20 blur-sm rounded-[18px]"></div>
                 </motion.div>
-                <span className="ml-3 text-xl font-bold text-white tracking-tight">ADONNOW <span className="text-[#dfd4a2]">TRADING</span></span>
+                <span className="ml-3 text-xl font-bold text-white tracking-tight">ASAP <span className="text-[#dfd4a2]">TRADING</span></span>
               </NavLink>
             </div>
             <div className="hidden lg:flex lg:items-center lg:space-x-2">
