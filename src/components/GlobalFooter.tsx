@@ -5,7 +5,7 @@ const GlobalFooter = () => {
       <div className="max-w-6xl mx-auto px-4">
         <div className="text-center">
           <p className="text-text-secondary text-sm">
-            © Adonnow Trading Limited. 2013 All rights reserved.
+            © Asap Trading Minerals. 2024 All rights reserved.
           </p>
         </div>
       </div>
