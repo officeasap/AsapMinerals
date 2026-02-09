@@ -459,10 +459,9 @@ const Contact = () => {
                 </h3>
                 <p className="text-text-secondary">
                   <a href="mailto:inquiry@adonnow.com" className="text-text-highlight hover:text-text-primary transition-colors">
-                    inquiry@adonnow.com
+                    inquiry@asaptrading.com
                   </a><br />
-                  <a href="tel:+254707513272" className="text-text-highlight hover:text-text-primary transition-colors">
-                    +254 781 327 065 <br/>
+                  <a href="tel:+254707513272" className="text-text-highlight hover:text-text-primary transition-colors"
                     +62 813 1567 9012
                   </a>
                 </p>
