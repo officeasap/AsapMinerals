@@ -44,7 +44,7 @@ const WhoWeAre = () => {
               
               <div className="space-y-4">
                 <p className="text-text-primary font-body text-sm md:text-base leading-relaxed">
-                  A Nairobi-based mineral trading company specializing in the export of strategic 
+                  A Kiambu-based mineral trading company specializing in the export of strategic 
                   commodities from East Africa to international markets.
                 </p>
                 
@@ -69,10 +69,10 @@ const WhoWeAre = () => {
                 <div>
                   <p className="text-text-secondary font-body text-xs uppercase tracking-wider mb-1">Trading Desk</p>
                   <a 
-                    href="tel:+254707513272"
+                    href="tel:+254781327065"
                     className="text-text-highlight font-body text-sm md:text-base block"
                   >
-                    +254 707 513 272
+                    +254 781327065
                   </a>
                 </div>
                 
