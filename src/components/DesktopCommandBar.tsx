@@ -19,11 +19,11 @@ export const DesktopCommandBar = () => {
       animate={{ y: 0 }}
       transition={{ type: "spring", stiffness: 100, damping: 20 }}
     >
-      {/* Logo - Official Adonnow Rectangle with breathing space */}
+      {/* Logo - Official Asap Rectangle with breathing space */}
       <NavLink to="/" className="flex-shrink-0 flex items-center justify-center mr-6">
         <img
           src="/images/LogoAdonnowOfficial.png"
-          alt="Adonnow Limited Logo"
+          alt="Asap Trading Logo"
           className="h-12 w-auto neu-raised p-1"
         />
       </NavLink>
